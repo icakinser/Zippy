@@ -1,0 +1,5 @@
+PyQt6>=6.4
+py7zr>=0.20
+cryptography>=39.0
+watchdog>=2.3
+markdown>=3.4
